@@ -58,6 +58,35 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "java-fundamentals",
+      "title": "Java Fundamentals",
+      "description": "Object-oriented programming with Java classes, methods, and encapsulation",
+      "path": "assignments/java-fundamentals",
+      "dueDate": "2025-11-21",
+      "attachments": [
+        {
+          "name": "Student Class Starter",
+          "file": "Student.java",
+          "type": "java"
+        },
+        {
+          "name": "Grade Calculator Main",
+          "file": "GradeCalculator.java",
+          "type": "java"
+        },
+        {
+          "name": "Bank Account Class",
+          "file": "BankAccount.java",
+          "type": "java"
+        },
+        {
+          "name": "Bank Main Class",
+          "file": "Bank.java",
+          "type": "java"
+        }
+      ]
     }
   ]
 }
